@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анна Зубринкина](https://up.htmlacademy.ru/javascript/12/user/411607).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
